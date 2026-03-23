@@ -4,14 +4,14 @@
   <link rel="alternate" type="text/html" href="https://status.meraki.net"/>
   <link rel="self" type="application/atom+xml" href="https://status.meraki.net/history.atom"/>
   <title>Meraki Status</title>
-  <updated>2026-03-23T09:03:35Z</updated>
+  <updated>2026-03-23T15:03:35Z</updated>
   <author>
     <name>Meraki</name>
   </author>
   <entry>
     <id>tag:status.meraki.net,2005:Incident/27602638</id>
-    <published>2026-03-24T00:00:00Z</published>
-    <updated>2026-03-24T00:00:00Z</updated>
+    <published>2026-03-23T15:00:00Z</published>
+    <updated>2026-03-23T15:00:00Z</updated>
     <link rel="alternate" type="text/html" href="https://status.meraki.net/"/>
     <title>Meraki Status test Message</title>
     <summary>Meraki Status test Message</summary>
