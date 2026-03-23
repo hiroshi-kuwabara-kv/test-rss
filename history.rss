@@ -4,13 +4,12 @@
     <title>Meraki Status Test Message</title>
     <link>https://status.meraki.net</link>
     <description>Meraki Status Test Message</description>
-    <pubDate>Mon, 24 Mar 2026 01:30:01 +0900</pubDate>
+    <pubDate>24 Mar 2026 03:00:01 +0900</pubDate>
     <item>
       <title>Meraki Status Test Message</title>
-      <description>
-&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;21:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident is now resolved.  All systems should be operating normally at this time.  If you continue to experience issues, please feel free to contact Customer Support.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;19:24&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A mitigation is in place that has restored normal functionality.  Our engineering teams continue to monitor this solution to confirm correct behavior.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var=&apos;date&apos;&gt;15&lt;/var&gt;, &lt;var data-var=&apos;time&apos;&gt;18:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - We are aware that some customers are having issues with Meraki cloud authentication, device to cloud connectivity and similar cloud services which rely on live network telemetry.  Our engineers are actively working on remediating these issues.&lt;/p&gt;      </description>
-      <pubDate>Mon, 24 Mar 2026 01:30:00 +0900</pubDate>
-      <link>https://status.meraki.net/</link>
+      <description>test</description>
+      <pubDate>24 Mar 2026 03:00:00 +0900</pubDate>
+      <link rel="self">https://status.meraki.net/</link>
       <guid>https://status.meraki.net/</guid>
     </item>
  </channel>
